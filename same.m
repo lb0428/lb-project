@@ -1,9 +1,0 @@
-functiona=same(msg,new_msg)
-temp=0;
-[N,M]=size(msg);
-fori=1:N
-forj=1:M
-ifmsg(i,j)==new_msg(i,j)
-endendtemp=temp+1£ºI
-end
-a=temp;
